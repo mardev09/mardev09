@@ -22,7 +22,7 @@
     <br>
     <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=javascript,lua,php,jquery" />
+      <img src="https://skillicons.dev/icons?i=javascript,lua,php,jquery,html,css" />
     </a>
   </samp>
 </p>
