@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- Intro  -->
+<h3 align="center">
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00adbb&center=true&random=false&width=435&lines=%3E+Hey+there!+I'm+mardev09!" alt="Typing SVG" /></a>
+</h3>
 
-<!--
-**mardev09/mardev09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <samp>
+    📄「 I'm currently learning 」
+    <br>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,cs,nextjs" />
+    </a>
+  </samp>
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  <samp>
+    💻「 Languages/Frameworks 」
+    <br>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=tailwind,lua,vue,jquery" />
+    </a>
+  </samp>
+</p>
