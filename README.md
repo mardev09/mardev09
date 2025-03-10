@@ -9,7 +9,7 @@
     <br>
     <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs" />
+      <img src="https://skillicons.dev/icons?i=react" />
     </a>
   </samp>
 </p>
