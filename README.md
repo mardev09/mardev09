@@ -9,7 +9,7 @@
     <br>
     <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,cs,nextjs" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs" />
     </a>
   </samp>
 </p>
@@ -22,7 +22,7 @@
     <br>
     <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=javascript,lua,php,jquery,html,css" />
+      <img src="https://skillicons.dev/icons?i=javascript,lua,php,jquery,html,css,tailwind" />
     </a>
   </samp>
 </p>
