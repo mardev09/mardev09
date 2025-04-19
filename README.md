@@ -11,6 +11,9 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react" />
     </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=astro" />
+    </a>
   </samp>
 </p>
 
